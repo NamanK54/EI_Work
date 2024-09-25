@@ -39,3 +39,5 @@ Both instances are the same. Singleton works!
 The Singleton instance is created only once, as indicated by the "Loading configuration settings..." message appearing only once.
 
 The updated settings are reflected across all references to the Singleton, proving that configManager1 and configManager2 are indeed the same instance.
+
+Hence, By using the Singleton pattern, we've ensured that our configuration manager is consistent and thread-safe throughout the application. The enhancements like lazy initialization and dynamic updates make this Singleton robust and ready for real-world use.
