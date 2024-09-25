@@ -1,8 +1,8 @@
-Excercise 2
+Excercise 2 : Problem Statements for Mini-Projects
 
-Problem Statement : Satellite Command System
+Problem Statement 
 
-Satellite Command System is a well-rounded exercise that involves state management, command execution, and the use of design patterns. Here's how we can approach it.
+Satellite Command System : It is a well-rounded exercise that involves state management, command execution, and the use of design patterns. Here's how we can approach it.
 
 Goal : Create a console-based application that simulates controlling a satellite in orbit. The satellite starts in a default state and can accept a series of commands to change its orientation, 
 manage its solar panels, and collect data.
