@@ -1,6 +1,8 @@
 # EI_Work
 Accomplished Exercises
 
+Excercise 1 : Problem Statement on Design Patterns
+
 Problem Statement 
 
 Imagine you're working on an application that needs to manage configuration settings, like API keys or database connection strings. You want to make sure there's only one place in the entire application where these settings are stored and accessed. To solve this, we'll use the Singleton pattern, which ensures that only one instance of a class exists and provides a global access point to that instance.
